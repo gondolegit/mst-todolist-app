@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Test Suite CRUD TodoListApp</description>
+   <name>TS CRUD - Todo</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1c2b33bb-f215-443a-b060-faa4aebcf322</testSuiteGuid>
+   <testCaseLink>
+      <guid>d708f297-38eb-41df-8fb3-47b22374f97b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'1'</defaultValue>
+         <description>untuk mengidentifikasi id test case</description>
+         <id>96b5a45e-c67f-471c-8fca-fe195c7d4a15</id>
+         <masked>false</masked>
+         <name>testCaseId</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Todo/Todo - Add</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9f90f79e-f2d2-4cbe-8bee-7a91d021fcc3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>3-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/Todo/TD - Todo - Add</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9f90f79e-f2d2-4cbe-8bee-7a91d021fcc3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testCaseId</value>
+         <variableId>96b5a45e-c67f-471c-8fca-fe195c7d4a15</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9f90f79e-f2d2-4cbe-8bee-7a91d021fcc3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>action</value>
+         <variableId>80aa1ae2-567d-48eb-8b9e-9629944f583b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9f90f79e-f2d2-4cbe-8bee-7a91d021fcc3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>ea3529f6-9457-46ef-a104-6a39cbd40a2c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9f90f79e-f2d2-4cbe-8bee-7a91d021fcc3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>c23e36fe-6b06-4970-995a-b5a14436c263</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9f90f79e-f2d2-4cbe-8bee-7a91d021fcc3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>798b347a-c3e6-4bb3-838c-5ba933d953d7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9f90f79e-f2d2-4cbe-8bee-7a91d021fcc3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Date</value>
+         <variableId>4a22df80-b978-4565-b5cf-c64d693e8b58</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9f90f79e-f2d2-4cbe-8bee-7a91d021fcc3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Type</value>
+         <variableId>70bbe1b8-b9c6-4dd7-a138-c5cc9932a6c8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9f90f79e-f2d2-4cbe-8bee-7a91d021fcc3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Description</value>
+         <variableId>0d5d195f-3002-406f-a973-c16cdb5386b5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9f90f79e-f2d2-4cbe-8bee-7a91d021fcc3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>File</value>
+         <variableId>8e44bb40-0d46-43cb-a327-d08b8d7b6d6b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9f90f79e-f2d2-4cbe-8bee-7a91d021fcc3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Note</value>
+         <variableId>33fb4875-4026-486d-91d0-ddf2752f2b62</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC Todo - Add</description>
+   <name>Todo - Add</name>
+   <tag>ALDO</tag>
+   <comment></comment>
+   <testCaseGuid>e0c426ab-10a1-4a1e-b478-096cbbe563c5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>96b5a45e-c67f-471c-8fca-fe195c7d4a15</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>80aa1ae2-567d-48eb-8b9e-9629944f583b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea3529f6-9457-46ef-a104-6a39cbd40a2c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c23e36fe-6b06-4970-995a-b5a14436c263</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>798b347a-c3e6-4bb3-838c-5ba933d953d7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a22df80-b978-4565-b5cf-c64d693e8b58</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70bbe1b8-b9c6-4dd7-a138-c5cc9932a6c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d5d195f-3002-406f-a973-c16cdb5386b5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e44bb40-0d46-43cb-a327-d08b8d7b6d6b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33fb4875-4026-486d-91d0-ddf2752f2b62</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description>untuk mengidentifikasi id test case</description>
+      <id>96b5a45e-c67f-471c-8fca-fe195c7d4a15</id>
+      <masked>false</masked>
+      <name>testCaseId</name>
+   </variable>
+   <variable>
+      <defaultValue>'Add View'</defaultValue>
+      <description>untuk mengidentifikasi action test case</description>
+      <id>80aa1ae2-567d-48eb-8b9e-9629944f583b</id>
+      <masked>false</masked>
+      <name>action</name>
+   </variable>
+   <variable>
+      <defaultValue>'mstqa'</defaultValue>
+      <description>username untuk login</description>
+      <id>ea3529f6-9457-46ef-a104-6a39cbd40a2c</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P@ssw0rd'</defaultValue>
+      <description>password untuk login</description>
+      <id>c23e36fe-6b06-4970-995a-b5a14436c263</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'MST QA Test'</defaultValue>
+      <description>name todo</description>
+      <id>798b347a-c3e6-4bb3-838c-5ba933d953d7</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'2023-08-10'</defaultValue>
+      <description>date todo</description>
+      <id>4a22df80-b978-4565-b5cf-c64d693e8b58</id>
+      <masked>false</masked>
+      <name>DateTodo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other'</defaultValue>
+      <description>type todo</description>
+      <id>70bbe1b8-b9c6-4dd7-a138-c5cc9932a6c8</id>
+      <masked>false</masked>
+      <name>Type</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testing 1'</defaultValue>
+      <description>description todo</description>
+      <id>0d5d195f-3002-406f-a973-c16cdb5386b5</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'TestImage.png'</defaultValue>
+      <description>file todo</description>
+      <id>8e44bb40-0d46-43cb-a327-d08b8d7b6d6b</id>
+      <masked>false</masked>
+      <name>FilePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'TC Positive'</defaultValue>
+      <description>note test case</description>
+      <id>33fb4875-4026-486d-91d0-ddf2752f2b62</id>
+      <masked>false</masked>
+      <name>Note</name>
+   </variable>
+</TestCaseEntity>

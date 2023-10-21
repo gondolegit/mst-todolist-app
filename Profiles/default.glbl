@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>this is maximum load for waiting element in seccond</description>
+      <initValue>5</initValue>
+      <name>timeoutLoadingElementInSeccond</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>this is maximum load for waiting element in milliseccond</description>
+      <initValue>5000</initValue>
+      <name>timeoutLoadingElementInMilliseccond</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>this is maximum load for waiting page in seccond</description>
+      <initValue>30</initValue>
+      <name>timeoutLoadingElementInSeccond</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>this is maximum load for waiting page in milliseccond</description>
+      <initValue>30000</initValue>
+      <name>timeoutLoadingElementInMilliseccond</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>this is apk name that we test for and the file type</description>
+      <initValue>'mst-qa-0.0.1.apk'</initValue>
+      <name>apkName</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
